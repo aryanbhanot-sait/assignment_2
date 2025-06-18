@@ -44,5 +44,4 @@ const styles = StyleSheet.create({
   },
   b: { marginTop: 10, padding: 10, backgroundColor: 'blue', color: 'white', fontWeight: "bold" }
 });
-
 export default CalgaryScreen;
